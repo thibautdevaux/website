@@ -181,19 +181,10 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
-
-
-Welcome on my website!
-
-I’m Thibaut DEVAUX. After graduating my PhD thesis at the Acoustics Laboratory of the University of Le Mans (LAUM), I joined the Division of Applied Physics in Hokkaido University (Japan) as Post-Doctoral researcher. Since September 2018, I'm associate professor in GREMAN Laboratory in Tours University (Blois, France).
-
+## Welcome on my website!
+I’m Thibaut DEVAUX. Since September 2018, I'm associate professor in GREMAN Laboratory in Tours University (Blois, France).
 My researches are focused on the control of acoustic waves propagation in space by designing acoustic diodes and systems wherein extraordinary acoustic transmission (EAT) phenomena occur.
 
+We are always looking for good candidates for internships (from Bsc level to Master), PhDs and postdoctorates! For further informations, do not hesitate to contact me by email. 
 
-You will find my curriculum vitae, a description of my researches, my publications and some scientific vulgarization.
-
-Feel free to send me an e-mail if you have any question or suggestion.
-
-​
 Enjoy your visit!
