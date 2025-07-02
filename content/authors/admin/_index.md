@@ -56,7 +56,7 @@ education:
     date_end: 2020-12-31
     summary: |
       PhD thesis prepared in the acoustics laboratory of the university of Le Mans : L.A.U.M (France).
-      **Subject** Acoustic Rectifiers and Diodes : Design of New Architectures, Theories and Experiments
+      **Subject** Acoustic Rectifiers and Diodes  Design of New Architectures, Theories and Experiments
       **Supervisors** V. Pagneux (DR CNRS), V. Tournat (DR CNRS) et O. Richoux (Prof.)
       **Defended** on February 4th 2016 at the Laboratory of Acoustics at University of Maine, Le Mans, France.
       **Jury** Chiara Daraio, Sébastion Guenneau, Bruno Lombard, Philippe Pouliguen, Dominique Fattaccioli, Vincent Pagneux, Vincent Tournat and Olivier Richoux.
