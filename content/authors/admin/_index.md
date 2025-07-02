@@ -47,7 +47,7 @@ interests:
    - Functional acoustic devices based on metamaterials
    - Subwavelength focusing of acoustic waves (Extraordinary Acoustic Transmission)
    - Acoustic characterization of polymers
-​
+
 education:
   - area: PhD in Acoustics
     institution: Le Mans University
