@@ -45,7 +45,7 @@ profiles:
 interests:
    - Acoustic Radiation Pressure
    - Functional acoustic devices based on metamaterials
-   - Subwavelength focusing of acoustic waves (Extraordinary Acoustic Transmission)
+   - Subwavelength focusing of acoustic waves
    - Acoustic characterization of polymers
 
 education:
