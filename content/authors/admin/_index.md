@@ -43,11 +43,10 @@ profiles:
     url: https://orcid.org/0000-0002-1524-0643
 
 interests:
-  # - Acoustic Radiation Pressure
-  # - Functional acoustic devices based on metamaterials
-  # - Subwavelength focusing of acoustic waves (Extraordinary Acoustic Transmission)
-  # - Acoustic characterization of polymers
-
+   - Acoustic Radiation Pressure
+   - Functional acoustic devices based on metamaterials
+   - Subwavelength focusing of acoustic waves (Extraordinary Acoustic Transmission)
+   - Acoustic characterization of polymers
 ​
 education:
   - area: PhD in Acoustics
