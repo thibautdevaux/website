@@ -43,22 +43,28 @@ profiles:
     url: https://orcid.org/0000-0002-1524-0643
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Acoustic Radiation Pressure
+  - Functional acoustic devices based on metamaterials
+  - Subwavelength focusing of acoustic waves (Extraordinary Acoustic Transmission)
+  - Acoustic characterization of polymers
 
+​
 education:
   - area: PhD in Acoustics
     institution: Le Mans University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      PhD thesis prepared in the acoustics laboratory of the university of Le Mans : L.A.U.M (France).
+      **Subject** Acoustic Rectifiers and Diodes : Design of New Architectures, Theories and Experiments
+      **Supervisors** V. Pagneux (DR CNRS), V. Tournat (DR CNRS) et O. Richoux (Prof.)
+      **Defended** on February 4th 2016 at the Laboratory of Acoustics at University of Maine, Le Mans, France.
+      **Jury** Chiara Daraio, Sébastion Guenneau, Bruno Lombard, Philippe Pouliguen, Dominique Fattaccioli, Vincent Pagneux, Vincent Tournat and Olivier Richoux.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.Sc Degree in Acoustics and Mechanics 
+    institution: Le Mans University (France) 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -91,8 +97,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Post-doctoral Researcher
+    company_name: Hokkaido University (Japan)
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
