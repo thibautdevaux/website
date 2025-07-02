@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Thibaut DEVAUX
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Thibaut 
+last_name: DEVAUX
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Associate Professor in Physical Acoustics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: GREMAN (Tours University)
+    url: https://greman.univ-tours.fr/version-francaise/more-on-our-english-website
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,8 +52,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Acoustics
+    institution: Le Mans University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +183,17 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Welcome on my website!
+
+I’m Thibaut DEVAUX. After graduating my PhD thesis at the Acoustics Laboratory of the University of Le Mans (LAUM), I joined the Division of Applied Physics in Hokkaido University (Japan) as Post-Doctoral researcher. Since September 2018, I'm associate professor in GREMAN Laboratory in Tours University (Blois, France).
+
+My researches are focused on the control of acoustic waves propagation in space by designing acoustic diodes and systems wherein extraordinary acoustic transmission (EAT) phenomena occur.
+
+
+You will find my curriculum vitae, a description of my researches, my publications and some scientific vulgarization.
+
+Feel free to send me an e-mail if you have any question or suggestion.
+
+​
+Enjoy your visit!
